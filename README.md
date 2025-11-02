@@ -1,2 +1,8 @@
-# flutter-mobile-sensors
-A repo to test mobile sensors with Flutter.
+# Flutter mobile sensors
+To be filed.
+---
+
+## 📂 Repos structure
+
+* `/code` - Contains all the source code for the Flutter application.
+* `/docs` - Contains the documentation used as a basis.
